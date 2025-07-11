@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Website visual studio code shafeeq</title>
+</head>
+<body style="background-color: rgb(255, 255, 255);">
+    <h1 style="text-align: center; font-family: Arial, Helvetica, sans-serif; font-color: rgb(144, 227, 255);">
+        website shafeeq 2</h1>
+<p style="text-align: center;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae vel quisquam et voluptate, ex voluptatum. 
+    Voluptatibus, maiores obcaecati? Sequi, aliquam possimus illo eum dolores, voluptates, aperiam obcaecati magnam magni 
+    molestias voluptate repudiandae ab deserunt praesentium rem dolorem quae error saepe perspiciatis quaerat libero ratione 
+    velit? Ipsum, commodi dolorem optio tempora error ea neque officia sequi velit cum perferendis possimus maxime nihil odit 
+    vitae suscipit quis unde accusamus ratione, dolore similique autem ut reprehenderit. Esse blanditiis quisquam, quia cumque 
+    adipisci recusandae quam saepe, quod dignissimos reprehenderit sapiente nemo nisi ducimus impedit voluptatem soluta ipsum eos
+     beatae delectus? Excepturi, illum nihil nostrum exercitationem est perspiciatis labore deserunt 
+     dolore at, dicta vel impedit sunt atque incidunt molestiae ullam fugit ipsa harum! Repudiandae iure 
+     officiis, cumque reiciendis magni quo doloremque! Consequatur voluptatibus corrupti minus sit incidunt, 
+     ad facere architecto fugit quia optio eius cupiditate cum? A,
+     beatae laudantium? Nesciunt architecto corporis aliquam.
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPIX37IaL_c-_ZNyZxhjXkZ9lAUsIeQBcxOA&s" 
+   alt="hello" height="500" style="border: 20px solid black; margin-top: 25px ; ">
+    <div></div>
+    <table border="25">
+  <thead>
+    <tr>
+      <th>Nama</th>
+      <th>Usia</th>
+      <th>Kota</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ani</td>
+      <td>25</td>
+      <td>Jakarta</td>
+    </tr>
+    <tr>
+      <td style="width: 400 px;">Budi</td>
+      <td>30</td>
+      <td>Bandung</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
